@@ -1,7 +1,7 @@
 {
   "version": "v0.0.2",
-  "notes": "Test version",
-  "pub_date": "2023-02-15T19:25:57Z",
+  "notes": "0.0.2 version",
+  "pub_date": "2023-03-19T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "",
@@ -9,7 +9,7 @@
     },
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/silicon/app.app.tar.gz"
+      "url": "https://dl.dropboxusercontent.com/s/m529lyxpcjc8ax0/osmo-app.app.tar.gz"
     }
   }
 }
